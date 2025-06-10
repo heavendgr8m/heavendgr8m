@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer working at a F
 _Solve the puzzle and get the best timer!_
 - Challenge yourself and others to beat your best time.
 - Built with passion for both code and games.
-- [Check it out!](#) _([Add your project link here if public](https://github.com/heavendgr8m/puzzles5))_
+- [Check it out!](#) _([Puzzle5](https://github.com/heavendgr8m/puzzles5))_
 
 ## 🌐 Connect with Me
 
